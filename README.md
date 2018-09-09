@@ -1,2 +1,2 @@
 # extreme-datacloud.github.io
-eXtreme DataCloud project documentation
+eXtreme DataCloud project's software documentation
